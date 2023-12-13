@@ -41,7 +41,7 @@ en:
         objectives: Objectives
         problem: Problem
         published: Published
-        requirements: Requeriments
+        requirements: Requirements
         sdg: Sustainable Development Goals
         scope: Territory
         tags: Keywords
@@ -998,7 +998,7 @@ en:
           confirm_destroy: Are you sure you want to delete this %{name}?
           destroy: Delete
           new_problem: New Problem
-          publish: Publicash
+          publish: Publish
           unpublish: Unpublish
           view: See problem
         models:
